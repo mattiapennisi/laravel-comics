@@ -8,4 +8,6 @@ Homepage
 
 <h1>Homepage</h1>
 
+<x-comic-card></x-comic-card>
+
 @endsection
